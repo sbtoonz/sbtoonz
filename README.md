@@ -22,7 +22,7 @@
   </center>
   </p>
   <br>
-  <p align="left">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbtoonz&theme=gruvbox">
   </img>
   </p>
